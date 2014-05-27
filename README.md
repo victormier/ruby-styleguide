@@ -1,12 +1,11 @@
 # Ruby Style Guide
 
-These are standards and conventions we use for Ruby code at Airbnb. Please take
+These are standards and conventions we use for Ruby code at Bright Funds. Please take
 what is useful to you.
 
-We based our Ruby style on the excellent [Github Ruby Styleguide][github-ruby],
+We based our Ruby style on the excellent [Airbnb Ruby Styleguide][airbnb-ruby]
+which in turn was inspired by [Github Ruby Styleguide][github-ruby],
 which in turn was inspired by [Bozhidar Batsov's guide][bbatsov-ruby].
-
-We also maintain a [JavaScript Style Guide][airbnb-javascript].
 
 ## Table of Contents
   1.  [Whitespace](#whitespace)
@@ -122,14 +121,14 @@ We also maintain a [JavaScript Style Guide][airbnb-javascript].
       redirect_to_alteration @reservation_alteration
     end
     ```
-    
+
 * Add a new line after conditionals, blocks, case statements, etc.
 
     ```ruby
     if robot.is_awesome?
       send_robot_present
     end
-    
+
     robot.add_trait(:human_like_intelligence)
     ```
 
@@ -1114,7 +1113,7 @@ in inheritance.
 
 &mdash;[Google C++ Style Guide][google-c++]
 
-[airbnb-javascript]: https://github.com/airbnb/javascript
+[airbnb-ruby]: https://github.com/github/ruby
 [bbatsov-ruby]: https://github.com/bbatsov/ruby-style-guide
 [github-ruby]: https://github.com/styleguide/ruby
 [google-c++]: http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
