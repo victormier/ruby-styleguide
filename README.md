@@ -1114,7 +1114,7 @@ in inheritance.
 
 &mdash;[Google C++ Style Guide][google-c++]
 
-[airbnb-ruby]: https://github.com/github/ruby
+[airbnb-ruby]: https://github.com/airbnb/ruby
 [bbatsov-ruby]: https://github.com/bbatsov/ruby-style-guide
 [github-ruby]: https://github.com/styleguide/ruby
 [google-c++]: http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
